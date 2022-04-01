@@ -1,2 +1,2 @@
 # tiktok-cringe-remover
-a *very* simple python tiktok report bot
+a **very** simple python tiktok report bot
